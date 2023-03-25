@@ -12,5 +12,6 @@ The major steps involved are as follows:-
 4. Power Query in Power BI
 4. Measures and calculations in Power BI
 5. Charts/Filters/Slicers used in Building Dashboard.
-6. Export Power BI Dashboard.
+6. Dashboard in Power BI
+7. Export Power BI Dashboard.
 
